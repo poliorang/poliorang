@@ -2,9 +2,11 @@
 
 <br>
 
+- :student: BMSTU Student ICS7 (3rd year) 
+
 - :mortar_board: Graduate Student of VK Technopark (iOS track)  
 
-- :student: BMSTU Student ICS7 (3rd year)  
+- :computer: Junior iOS-developer 
 
 - :muscle: Pianist, photographer, singer, videographer, drummer and much more  
 <br>
