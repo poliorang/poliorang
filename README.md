@@ -1,21 +1,40 @@
-### Hi there 👋
+<h1 align="center">Hi! I'm Poli Orang [aka Polina Egorova]</h1>
+<h3 align="center">BMSTU Student ICS7 3rd year)</h3>
 
-<!--
-**poliorang/poliorang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<p align="right">
+  <h3>Profile Views </h3> <img
+    src="https://komarev.com/ghpvc/?username=poliorang&label=Profile%20views&color=0e75b6&style=flat" alt="poliorang" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
 
-### :hammer_and_wrench: Languages and Tools :
+- :mortar_board: Graduate Student of VK Technopark (iOS track)
+
+- :student: BMSTU Student ICS7 (3rd year);
+
+- :muscle: Pianist, photographer, singer, videographer, drummer and much more
+
+
+<br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.instagram.com/poliorang" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="poliorang" height="30" width="40" /></a>
+  <a href="https://vk.com/poliorang" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg"
+      alt="poliorang" height="30" width="40" /></a>
+  <a href="https://t.me/poliorang" target="blank"><img align="center"
+      src="https://www.svgrepo.com/show/303292/telegram-logo.svg" height="30" width="40" /></a>
+
+</p>
+
+<br>
+
+<h3 align="left">Languages and Tools:</h3>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift.org" alt="Swift.org" width="40" 
 </div>
