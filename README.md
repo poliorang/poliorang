@@ -1,22 +1,9 @@
 <h1 align="center">Hi! I'm Poli Orang [aka Polina Egorova]</h1>
-<h3 align="center">BMSTU Student ICS7 3rd year)</h3>
 
 <br>
-
-<p align="right">
-  <h3>Profile Views </h3> <img
-    src="https://komarev.com/ghpvc/?username=poliorang&label=Profile%20views&color=0e75b6&style=flat" alt="poliorang" />
-</p>
-
-<br>
-
-- :mortar_board: Graduate Student of VK Technopark (iOS track)
-
-- :student: BMSTU Student ICS7 (3rd year);
-
-- :muscle: Pianist, photographer, singer, videographer, drummer and much more
-
-
+- :mortar_board: Graduate Student of VK Technopark (iOS track)  
+- :student: BMSTU Student ICS7 (3rd year)  
+- :muscle: Pianist, photographer, singer, videographer, drummer and much more  
 <br>
 
 <h3 align="left">Connect with me:</h3>
