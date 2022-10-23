@@ -31,3 +31,6 @@ Here are some ideas to get you started:
 </div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" 
 </div>
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=poliorang&theme=dark&background=000000)](https://git.io/streak-stats)
