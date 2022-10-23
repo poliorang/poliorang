@@ -1,6 +1,7 @@
 <h1 align="center">Hi! I'm Poli Orang [aka Polina Egorova]</h1>
 
 <br>
+
 - :mortar_board: Graduate Student of VK Technopark (iOS track)  
 
 - :student: BMSTU Student ICS7 (3rd year)  
@@ -33,12 +34,12 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" /> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker" width="40" height="40" /> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
       alt="postgresql" width="40" height="40" /> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+      alt="docker" width="40" height="40" /> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
       width="40" height="40" /> </a> 
@@ -51,7 +52,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40" />
   </a>
   <a href="https://www.figma.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original-wordmark.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"
       alt="figma" width="40" height="40" /> </a>
   <a href="https://www.adobe.com/ru/products/photoshop.html" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg"
@@ -66,36 +67,3 @@
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poliorang&" alt="poliorang" /></p>
-
-
-
-
-
-
-
-
-
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift.org" alt="Swift.org" width="40" 
-</div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" 
-</div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" 
-</div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="40" 
-</div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" 
-</div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" 
-</div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" 
-</div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" 
-</div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" 
-</div>
-
