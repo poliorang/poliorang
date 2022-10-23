@@ -1,4 +1,4 @@
-<h1 align="center">Poli Orang [aka Polina Egorova]</h1>
+<h1 align="center">Poli Orang | aka Polina Egorova</h1>
 
 <br>
 
