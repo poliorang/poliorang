@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 </div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" 
 </div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original-wordmark.svg" title="C" alt="C" width="40" 
+</div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" 
+</div>
