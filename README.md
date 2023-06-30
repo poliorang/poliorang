@@ -2,7 +2,7 @@
 
 <br>
 
-- :books: BMSTU Student ICS7 (3rd year) 
+- :books: BMSTU Student ICS7 (4rd year) 
 
 - :mortar_board: Graduate Student of VK Technopark (iOS track)  
 
