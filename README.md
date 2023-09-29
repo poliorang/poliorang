@@ -1,7 +1,3 @@
-<h1 align="center">Poli Orang | aka Polina Egorova</h1>
-
-<br>
-
 - bmstu student ICS7 (4rd year) 
 
 - graduate student of VK Technopark (iOS track)  
@@ -59,16 +55,3 @@
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poliorang&theme=dark&" alt="poliorang" /></p>
 
-<br> -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://t.me/poliorang" target="blank"><img align="center"
-      src="https://www.svgrepo.com/show/303292/telegram-logo.svg" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/poliorang" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="poliorang" height="30" width="40" /></a>
-  <a href="https://vk.com/poliorang" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg"
-      alt="poliorang" height="30" width="40" /></a>
-</p>
