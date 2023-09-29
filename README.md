@@ -2,13 +2,13 @@
 
 <br>
 
-- :books: BMSTU Student ICS7 (4rd year) 
+- bmstu student ICS7 (4rd year) 
 
-- :mortar_board: Graduate Student of VK Technopark (iOS track)  
+- graduate student of VK Technopark (iOS track)  
 
-- :computer: Junior iOS-developer 
+- iOS-developer (from a corporation with the letter YA)
 
-- :muscle: Pianist, photographer, singer, videographer, drummer and much more  
+- pianist, photographer, singer, videographer, drummer and much more  
 
 <br>
 
