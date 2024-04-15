@@ -2,6 +2,6 @@
 
 - graduate student of VK Technopark (iOS track)  
 
-- iOS-developer (from a corporation with the letter YA)
+- iOS-developer
 
 - pianist, photographer, singer, videographer, drummer and much more
