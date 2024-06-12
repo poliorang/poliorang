@@ -1,7 +1,7 @@
-- bmstu student ICS7 (4rd year) 
+- graduate student bmstu ICS7
 
-- graduate student of VK Technopark (iOS track)  
+- student of VK Technopark (iOS track)  
 
-- iOS-developer
+- iOS-developer 
 
 - pianist, photographer, singer, videographer, drummer and much more
